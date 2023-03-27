@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code and Barcode Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>QR Code and Barcode Generator</h1>
+
+    <label for="url-input">To convert :</label>
+    <input type="text" id="url-input" placeholder="Enter your URL / text here">
+
+    <label><input type="checkbox" id="qr-checkbox" checked> QR Code</label>
+    <label><input type="checkbox" id="barcode-checkbox"> Barcode</label>
+    <button id="generate-btn">Generate</button>
+    <p id="folder-label"></p>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/JsBarcode/3.11.5/JsBarcode.all.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
