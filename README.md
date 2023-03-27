@@ -1,4 +1,4 @@
-Python 3.11 | ONLINE + Windows EXE | v1.0.0
+[![Download barcraft](https://img.shields.io/sourceforge/dt/barcraft.svg)](https://sourceforge.net/projects/barcraft/files/latest/download) Python 3.11 | ONLINE + Windows EXE | v1.0.0 
 
 ```
 ██████╗  █████╗ ██████╗  ██████╗██████╗  █████╗ ███████╗████████╗
@@ -34,6 +34,7 @@ This repository is released under the [MIT License](LICENSE). Please see the `LI
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
 
+[![Download barcraft](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/barcraft/files/latest/download)
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
