@@ -12,7 +12,7 @@
 
 # Description
 
-A simple QrCode / barcode generator that you can also use from here : secret-guest.github.io/barcraft/
+A simple QrCode / barcode generator that you can also use from here : https://secret-guest.github.io/barcraft/
 
 There are several folder, ico and python script are here to make the Application for the os you want, rest of folder/files are for to run the website that I mentionned before.
 
