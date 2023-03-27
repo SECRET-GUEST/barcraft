@@ -18,7 +18,7 @@ There are several folder, ico and python script are here to make the Application
 
 In release section you can download an executable ready to launch (portable) made for windows with pyinstaller.
 
-It's a non-signed software because I prefer to save my money for real stuff, so it will be detected as a malware from bad anti-virus, you can still test on sandbox here  : https://www.virustotal.com/gui/home/upload 
+It's a non-signed software because I prefer to save my money for real stuff, so it will be detected as a malware from bad anti-virus.
 
 Or compile it by yourself , I made a tutorial downside of this page.
 
