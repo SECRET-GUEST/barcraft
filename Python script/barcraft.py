@@ -304,6 +304,32 @@ QPushButton:pressed {
     background-color: #A0E2A4;
 
 
+
+QCheckBox::indicator {
+    border: 0.5px solid #023047;
+    border-radius: 50%; 
+    width: 10px;
+    height: 10px;
+}
+
+QCheckBox::indicator:checked {
+    background-color: #023047;
+    border-color: #023047;
+}
+
+QCheckBox::indicator:hover {
+    border-color: #F2E2BA;
+}
+
+QCheckBox::indicator:checked:hover {
+    background-color: #F2E2BA;
+    border-color: #F2E2BA;
+}
+
+QCheckBox::indicator:disabled {
+    border-color: #B0F2B4;
+    background-color: #B0F2B4;
+
 }
 
 
