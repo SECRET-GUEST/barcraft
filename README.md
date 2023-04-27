@@ -25,6 +25,15 @@ Or compile it by yourself , I made a tutorial downside of this page.
 
 ![barcraft 27032023](https://user-images.githubusercontent.com/92639080/227857478-39eb0f9e-e665-4a3c-9b24-20227c16a0df.png)
 
+
+BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
+
+- Generate video in one click using this little tool powered by FFMPEG : https://github.com/SECRET-GUEST/ffmpeg-assembler
+- A nice overlay to click through image that can be resized : https://github.com/SECRET-GUEST/Layer-one
+- A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
+
+And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
+
 # :scroll: License
 
 This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
