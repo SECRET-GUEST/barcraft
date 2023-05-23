@@ -66,49 +66,62 @@
 //OPENING | https://www.youtube.com/watch?v=_85LaeTCtV8 :3
 
 
+// Image names
+const images = ['sky.jpg', 'sky2.jpg', 'sky3.jpg'];
+let index = -1; 
 
-// Image name
-const images = ['sky.jpg', 'cypunk.jpg', 'cypunk2.jpg', 'dream.jpg', 'neon.jpg'];
+// Get image elements
+const image360front = document.getElementById('image360front'); // front image
 
-let index = 0; // Image index
-const image360 = document.getElementById('image360'); // element displaying image
-
-
-
-
-// Function to pass image
+// Next image with transition
 function nextImage() {
-  // update index
-  index = (index + 1) % images.length;
-
-  // update the image source
-  image360.setAttribute('src', 'img/' + images[index]);
-
-  // reset opacity (transition)
-  image360.style.opacity = 1;
+    index = (index + 1) % images.length;
+    image360front.setAttribute('src', 'img/' + images[index]);
 }
 
-
-
+// Hide VR button
+window.addEventListener('load', (event) => {
+    document.querySelector('.a-enter-vr').style.display = 'none';
+});
 
 // Launch image
 nextImage();
 
-
-
 // Define random delay between 20~40s
 let delay = Math.random() * 20000 + 20000;
 
-// Next image 
-setTimeout(function() {
-  nextImage();
-  // Set opacity progressively to transparent
-  image360.style.opacity = 0;
-  // Set new delay
-  delay = Math.random() * 20000 + 20000;
+// Next image every 20~40s
+setInterval(function() {
+    nextImage();
 }, delay);
 
+let rotationSpeedX = 0.05;
+let rotationSpeedY = 0.05;
+let speedFactor = 0.5;
 
+document.onmousemove = function(e) {
+    let x = e.clientX;
+    let y = e.clientY;
+    let windowWidth = window.innerWidth;
+    let windowHeight = window.innerHeight;
+
+    let xProximity = y / windowHeight;
+    let yProximity = x / windowWidth;
+
+    rotationSpeedY = 0.05 + (0.5 - yProximity) * speedFactor;
+    rotationSpeedX = 0.05 + (0.5 - xProximity) * speedFactor;
+}
+
+
+function rotateImage() {
+    let rotation = image360front.getAttribute("rotation");
+    rotation.y = (rotation.y + rotationSpeedY) % 360;
+    rotation.x = (rotation.x + rotationSpeedX) % 360;
+    image360front.setAttribute("rotation", rotation);
+    requestAnimationFrame(rotateImage);
+}
+
+rotateImage();
 
 
 //Link event listener to the "Generate" button
