@@ -44,6 +44,7 @@ If you have any questions or need support, please feel free to open an issue or 
 
 
 [![Download barcraft](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/barcraft/files/latest/download)
+![image](https://github.com/SECRET-GUEST/barcraft/assets/92639080/3b2bef50-c84c-410a-8947-c7bf889eab5b)
 
 
 ```
