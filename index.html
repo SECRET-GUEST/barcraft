@@ -12,14 +12,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Mrs+Saint+Delafield&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-    
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+
 </head>
 <body>
 
 <div id="title-container">
         <h1>QR Code and Barcode Generator</h1>
 </div>
-    
+
 <div id="secretguest">
     <a>Thx for subscribe :</a>
     <a href="https://www.youtube.com/watch?v=_85LaeTCtV8&list=PLA0JNlLE2GW1vzI7vnBrgP6KE3faAHxPR&index=4&ab_channel=SECRETGUEST" id="secret-guest">Secret Guest</a>👍
@@ -37,6 +38,10 @@
 
 
     <p id="folder-label"></p>
+
+    <a-scene id="scene">
+      <a-sky id="image360" src="" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000;"></a-sky>
+    </a-scene>
 
     <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs/qrcode.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jsbarcode/3.11.5/JsBarcode.all.min.js"></script>
