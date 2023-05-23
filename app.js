@@ -1,3 +1,5 @@
+//               
+//                 |                                                |            |                                   |                               |                           |                               |                           |                               |                                |                               |
 //          |                                  |                                     |
 //               
 //                 |                     |                                                     |                                   |                               |     |                                   |                               |     |                                   |                               |          |                                   |                               |
@@ -65,9 +67,53 @@
 
 
 
+// Image name
+const images = ['sky.jpg', 'cypunk.jpg', 'cypunk2.jpg', 'dream.jpg', 'neon.jpg'];
+
+let index = 0; // Image index
+const image360 = document.getElementById('image360'); // element displaying image
+
+
+
+
+// Function to pass image
+function nextImage() {
+  // update index
+  index = (index + 1) % images.length;
+
+  // update the image source
+  image360.setAttribute('src', 'img/' + images[index]);
+
+  // reset opacity (transition)
+  image360.style.opacity = 1;
+}
+
+
+
+
+// Launch image
+nextImage();
+
+
+
+// Define random delay between 20~40s
+let delay = Math.random() * 20000 + 20000;
+
+// Next image 
+setTimeout(function() {
+  nextImage();
+  // Set opacity progressively to transparent
+  image360.style.opacity = 0;
+  // Set new delay
+  delay = Math.random() * 20000 + 20000;
+}, delay);
+
+
+
 
 //Link event listener to the "Generate" button
 document.getElementById('generate-btn').addEventListener('click', generateImages);
+
 
 
 
