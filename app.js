@@ -66,63 +66,99 @@
 //OPENING | https://www.youtube.com/watch?v=_85LaeTCtV8 :3
 
 
+
+
+//___  ____ ____ _  _ ____ ____ ____ _  _ _  _ ___  
+//|__] |__| |    |_/  | __ |__/ |  | |  | |\ | |  \ 
+//|__] |  | |___ | \_ |__] |  \ |__| |__| | \| |__/ 
+                                                  
+
 // Image names
 const images = ['sky.jpg', 'sky2.jpg', 'sky3.jpg'];
-let index = -1; 
+let index = -1;
 
 // Get image elements
-const image360front = document.getElementById('image360front'); // front image
+const image360_1 = document.getElementById('image360_1'); // image_1
+const image360_2 = document.getElementById('image360_2'); // image_2
 
-// Next image with transition
-function nextImage() {
+let currentImage = image360_1;
+let nextImageElement = image360_2;
+
+// Define rotation speeds for the X and Y axes
+let rotationSpeedX = 0;
+let rotationSpeedY = 0;
+
+// Define a factor to adjust the speed of rotation
+let speedFactor = 0.00001; // Reduced speedFactor
+
+function loadImage() {
     index = (index + 1) % images.length;
-    image360front.setAttribute('src', 'img/' + images[index]);
+
+    nextImageElement.setAttribute('src', 'img/' + images[index]);
+    nextImageElement.setAttribute('animation', {
+      property: 'material.opacity',
+      to: '1',
+      dur: '1000',
+      easing: 'linear'
+    });
+
+    currentImage.setAttribute('animation', {
+      property: 'material.opacity',
+      to: '0',
+      dur: '1000',
+      easing: 'linear'
+    });
+
+    // Swap the images
+    let temp = currentImage;
+    currentImage = nextImageElement;
+    nextImageElement = temp;
+}
+
+// Attach a mousemove event handler to the document
+document.onmousemove = function(e) {
+    // Retrieve the current mouse coordinates
+    let x = e.clientX;
+    let y = e.clientY;
+
+    // Get the width and height of the window
+    let windowWidth = window.innerWidth;
+    let windowHeight = window.innerHeight;
+
+    // Adjust the rotation speeds based on the mouse coordinates and speed factor
+    rotationSpeedY = (x - windowWidth / 2) * speedFactor;
+    rotationSpeedX = (y - windowHeight / 2) * speedFactor;
+
+    // Rotate both images
+    currentImage.object3D.rotation.y += rotationSpeedY;
+    currentImage.object3D.rotation.x += rotationSpeedX;
+
+    nextImageElement.object3D.rotation.y += rotationSpeedY;
+    nextImageElement.object3D.rotation.x += rotationSpeedX;
 }
 
 // Hide VR button
 window.addEventListener('load', (event) => {
-    document.querySelector('.a-enter-vr').style.display = 'none';
+  document.querySelector('.a-enter-vr').style.display = 'none';
 });
 
 // Launch image
-nextImage();
+loadImage();
 
 // Define random delay between 20~40s
-let delay = Math.random() * 20000 + 20000;
+let delay = Math.random() * 2000 + 2000;
 
-// Next image every 20~40s
 setInterval(function() {
-    nextImage();
+  loadImage();
 }, delay);
 
-let rotationSpeedX = 0.05;
-let rotationSpeedY = 0.05;
-let speedFactor = 0.5;
-
-document.onmousemove = function(e) {
-    let x = e.clientX;
-    let y = e.clientY;
-    let windowWidth = window.innerWidth;
-    let windowHeight = window.innerHeight;
-
-    let xProximity = y / windowHeight;
-    let yProximity = x / windowWidth;
-
-    rotationSpeedY = 0.05 + (0.5 - yProximity) * speedFactor;
-    rotationSpeedX = 0.05 + (0.5 - xProximity) * speedFactor;
-}
 
 
-function rotateImage() {
-    let rotation = image360front.getAttribute("rotation");
-    rotation.y = (rotation.y + rotationSpeedY) % 360;
-    rotation.x = (rotation.x + rotationSpeedX) % 360;
-    image360front.setAttribute("rotation", rotation);
-    requestAnimationFrame(rotateImage);
-}
 
-rotateImage();
-
+//____ ____ _  _ ____ ____ ____ ___ ____ ____ ____ 
+//| __ |___ |\ | |___ |__/ |__|  |  |  | |__/ [__  
+//|__] |___ | \| |___ |  \ |  |  |  |__| |  \ ___] 
+                                                 
 
 //Link event listener to the "Generate" button
 document.getElementById('generate-btn').addEventListener('click', generateImages);
