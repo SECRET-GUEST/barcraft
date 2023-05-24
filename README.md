@@ -22,11 +22,12 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 
 Or compile it by yourself , I made a tutorial downside of this page.
 
+TODO : 
+- rework the frontend
 
 ![barcraft 27032023](https://user-images.githubusercontent.com/92639080/227857478-39eb0f9e-e665-4a3c-9b24-20227c16a0df.png)
 
-TODO : 
-- rework the frontend
+
 
 BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
 
