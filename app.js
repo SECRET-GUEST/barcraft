@@ -146,7 +146,7 @@ window.addEventListener('load', (event) => {
 loadImage();
 
 // Define random delay between 20~40s
-let delay = Math.random() * 2000 + 2000;
+let delay = Math.random() * 20000 + 20000;
 
 setInterval(function() {
   loadImage();
