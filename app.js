@@ -78,18 +78,21 @@ const images = ['sky.jpg', 'sky2.jpg', 'sky3.jpg'];
 let index = -1;
 
 // Get image elements
-const image360_1 = document.getElementById('image360_1'); // image_1
-const image360_2 = document.getElementById('image360_2'); // image_2
+const image360_1 = document.getElementById('image360_1');
+const image360_2 = document.getElementById('image360_2');
 
 let currentImage = image360_1;
 let nextImageElement = image360_2;
+
 
 // Define rotation speeds for the X and Y axes
 let rotationSpeedX = 0;
 let rotationSpeedY = 0;
 
 // Define a factor to adjust the speed of rotation
-let speedFactor = 0.00001; // Reduced speedFactor
+let speedFactor = 0.00001; 
+
+
 
 function loadImage() {
     index = (index + 1) % images.length;
@@ -114,6 +117,7 @@ function loadImage() {
     currentImage = nextImageElement;
     nextImageElement = temp;
 }
+
 
 // Attach a mousemove event handler to the document
 document.onmousemove = function(e) {
@@ -149,7 +153,6 @@ loadImage();
 let delay = Math.random() * 20000 + 20000;
 
 setInterval(loadImage, delay);
-
 
 
 
