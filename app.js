@@ -148,9 +148,8 @@ loadImage();
 // Define random delay between 20~40s
 let delay = Math.random() * 20000 + 20000;
 
-setInterval(function() {
-  loadImage();
-}, delay);
+setInterval(loadImage, delay);
+
 
 
 
