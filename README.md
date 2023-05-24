@@ -14,8 +14,6 @@
 
 A simple QrCode / barcode generator that you can also use from here : https://secret-guest.github.io/barcraft/
 
-NOTE : There is an issue with the website, the scroll doesn't appears, you'll have to unzoom, I don't really understand from where come this issue so I will let it like this for the moment sorry :kissing_closed_eyes:	
-
 There are several folder, ico and python script are here to make the Application for the os you want, rest of folder/files are for to run the website that I mentionned before.
 
 In release section you can download an executable ready to launch (portable) made for windows with pyinstaller.
@@ -27,6 +25,8 @@ Or compile it by yourself , I made a tutorial downside of this page.
 
 ![barcraft 27032023](https://user-images.githubusercontent.com/92639080/227857478-39eb0f9e-e665-4a3c-9b24-20227c16a0df.png)
 
+TODO : 
+- rework the frontend
 
 BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
 
