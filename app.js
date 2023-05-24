@@ -90,10 +90,16 @@ let rotationSpeedY = 0;
 // Define a factor to adjust the speed of rotation
 let speedFactor = 0.00001;
 
-function loadImage() {
-  index = (index + 1) % images.length;
 
+
+function loadImage() {
+  // Increment the index; cycle back to 0 when it reaches the length of the images array
+  index = (index + 1) % images.length;
+  
+  // Set source
   nextImageElement.setAttribute('src', 'img/' + images[index]);
+
+  // Set an animation on the next image element to gradually increase its opacity to 1 over 1 second
   nextImageElement.setAttribute('animation', {
     property: 'material.opacity',
     to: '1',
@@ -101,6 +107,7 @@ function loadImage() {
     easing: 'linear'
   });
 
+    // Set an animation on the current image element to gradually decrease its opacity to 0 over 1 second
   currentImage.setAttribute('animation', {
     property: 'material.opacity',
     to: '0',
@@ -108,6 +115,7 @@ function loadImage() {
     easing: 'linear'
   });
 
+  
   // Swap the images
   let temp = currentImage;
   currentImage = nextImageElement;
@@ -138,9 +146,19 @@ function handleMouseMove(e) {
   let windowWidth = window.innerWidth;
   let windowHeight = window.innerHeight;
 
-  // Adjust the rotation speeds based on the mouse coordinates and speed factor
-  rotationSpeedY = (x - windowWidth / 2) * speedFactor;
-  rotationSpeedX = (y - windowHeight / 2) * speedFactor;
+  // Calculate the distance of the mouse from the center of the window
+  let distanceX = x - windowWidth / 2;
+  let distanceY = y - windowHeight / 2;
+
+  // If the mouse is near the center of the screen, reduce the rotation speed
+  if (Math.abs(distanceX) < windowWidth / 4 && Math.abs(distanceY) < windowHeight / 4) {
+    rotationSpeedY *= 0.9;
+    rotationSpeedX *= 0.9;
+  } else {
+    // Otherwise, adjust the rotation speeds based on the mouse coordinates and speed factor
+    rotationSpeedY = distanceX * speedFactor;
+    rotationSpeedX = distanceY * speedFactor;
+  }
 }
 
 // Attach mousemove event listener to the document
@@ -155,7 +173,7 @@ window.addEventListener('load', (event) => {
 loadImage();
 
 // Define random delay between 20~40s
-let delay = Math.random() * 2000 + 2000;
+let delay = Math.random() * 20000 + 20000;
 
 setInterval(loadImage, delay);
 
