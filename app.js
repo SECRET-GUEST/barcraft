@@ -95,7 +95,7 @@ let speedFactor = 0.00001;
 function loadImage() {
   // Increment the index; cycle back to 0 when it reaches the length of the images array
   index = (index + 1) % images.length;
-  
+
   // Set source
   nextImageElement.setAttribute('src', 'img/' + images[index]);
 
