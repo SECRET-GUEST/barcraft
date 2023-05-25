@@ -165,21 +165,6 @@ function handleMouseMove(e) {
 // Attach mousemove event listener to the document
 document.addEventListener('mousemove', handleMouseMove);
 
-// Hide VR button
-window.addEventListener('load', (event) => {
-  var vrButton = document.querySelector('.a-enter-vr');
-  var arButton = document.querySelector('.a-enter-ar');
-  
-  if (vrButton) {
-    vrButton.style.display = 'none';
-  }
-  
-  if (arButton) {
-    arButton.style.display = 'none';
-  }
-});
-
-
 // Launch image
 loadImage();
 
