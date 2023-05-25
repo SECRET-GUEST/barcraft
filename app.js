@@ -167,7 +167,8 @@ document.addEventListener('mousemove', handleMouseMove);
 
 // Hide VR button
 window.addEventListener('load', (event) => {
-  document.querySelector('.a-enter-vr').style.display = 'none';
+  document.querySelector('.a-enter-vr','.a-enter-ar').style.display = 'none';
+
 });
 
 // Launch image
