@@ -28,14 +28,17 @@ TODO :
 ![barcraft 27032023](https://user-images.githubusercontent.com/92639080/227857478-39eb0f9e-e665-4a3c-9b24-20227c16a0df.png)
 
 
+# :gem: Recommendations  
 
-BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
+If you're seeking more tools to boost your productivity, consider exploring these repositories:
 
-- Generate video in one click using this little tool powered by FFMPEG : https://github.com/SECRET-GUEST/ffmpeg-assembler
-- A nice overlay to click through image that can be resized : https://github.com/SECRET-GUEST/Layer-one
-- A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
+- [FFMPEG Assembler](https://github.com/SECRET-GUEST/ffmpeg-assembler) : Generate videos swiftly using this small tool powered by FFMPEG.
+- [Layer One](https://github.com/SECRET-GUEST/Layer-one) : A convenient overlay that lets you click through images and is resizable.
+- [AutoClicker](https://github.com/SECRET-GUEST/autoclicker) : A robust autoclicker tool.
 
-And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
+For more user-friendly scripts without a GUI, consider: 
+- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
+
 
 # :scroll: License
 
@@ -48,6 +51,7 @@ If you have any questions or need support, please feel free to open an issue or 
 
 [![Download barcraft](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/barcraft/files/latest/download)
 ![image](https://github.com/SECRET-GUEST/barcraft/assets/92639080/3b2bef50-c84c-410a-8947-c7bf889eab5b)
+
 
 
 ```
