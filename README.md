@@ -25,7 +25,7 @@ Or compile it by yourself , I made a tutorial downside of this page.
 TODO : 
 - rework the frontend (sorry I know it's terrible but I actually don't have time to spend on it )
 
-![barcraft 27032023](https://user-images.githubusercontent.com/92639080/227857478-39eb0f9e-e665-4a3c-9b24-20227c16a0df.png)
+![barcraft-App](https://github.com/SECRET-GUEST/barcraft/assets/92639080/5f9611ba-630f-4c28-ae76-2a51f3b1ca4b)
 
 
 # :gem: Recommendations  
