@@ -23,7 +23,7 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 Or compile it by yourself , I made a tutorial downside of this page.
 
 TODO : 
-- rework the frontend (sorry I know it's terrible but I actually don't have time to spend on it )
+- Show the code when last bugs are fixed
 
 ![barcraft-App](https://github.com/SECRET-GUEST/barcraft/assets/92639080/5f9611ba-630f-4c28-ae76-2a51f3b1ca4b)
 
