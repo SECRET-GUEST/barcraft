@@ -33,7 +33,7 @@ TODO :
 If you're seeking more tools to boost your productivity, consider exploring these repositories:
 
 - [FFMPEG Assembler](https://github.com/SECRET-GUEST/ffmpeg-assembler) : Generate videos swiftly using this small tool powered by FFMPEG.
-- [Layer One](https://github.com/SECRET-GUEST/Layer-one) : A convenient overlay that lets you click through images and is resizable.
+- [Macara](https://github.com/SECRET-GUEST/Macara) : A multimedia handler , managing filenames, images,...
 - [AutoClicker](https://github.com/SECRET-GUEST/autoclicker) : A robust autoclicker tool.
 
 For more user-friendly scripts without a GUI, consider: 
