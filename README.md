@@ -81,6 +81,8 @@ python script.pyw
 
 # :desktop_computer: For **Microsoft** users:
 
+Most of the time you can find an MSI installer in [source forge](https://sourceforge.net/u/secret-guest/profile), or in latest relase here, but if you don't you can still watch this tutorial.
+
 Because this script is made by PyInstaller, it could be detected as malware. (sorry, but I will not spend money to just be approved by "security" software/websites, you have the code, and here are possibilities to help you run it:
 
 ## :large_orange_diamond: 1. Run by simple click on `APPLICATION.exe`
@@ -126,7 +128,7 @@ pyinstaller YOUR_FILE.spec
 ```
 Normally, I place a blank.spec file in the "script" folder, if there isn't one let's watch over here:
 
-:crossed_flags: https://github.com/SECRET-GUEST/tiny-scripts/tree/ALL/useful%20for%20python/pyinstaller :crossed_flags:
+:crossed_flags: [HOW TO MAKE AN EXECUTABLE FAST](https://github.com/SECRET-GUEST/tiny-scripts/tree/ALL/python/INSTALLER) :crossed_flags:
 
 :small_red_triangle: You can also run it directly with your OS, type the following command, replacing the file paths with your own:
 
