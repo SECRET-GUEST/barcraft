@@ -1,4 +1,4 @@
-[![Download barcraft](https://img.shields.io/sourceforge/dt/barcraft.svg)](https://sourceforge.net/projects/barcraft/files/latest/download) Python 3.11 | ONLINE VERSION + Windows EXE | v1.0.0 
+[![Download barcraft](https://img.shields.io/sourceforge/dt/barcraft.svg)](https://sourceforge.net/projects/barcraft/files/latest/download)
 
 ```
 ██████╗  █████╗ ██████╗  ██████╗██████╗  █████╗ ███████╗████████╗
@@ -9,6 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   
                                                                  
 ```
+![version](https://img.shields.io/badge/VERSION-1.0.0-green) ![version](https://img.shields.io/badge/PYTHON-3.11-blue) ![version](https://img.shields.io/badge/EXE-WINDOWS-blue)
 
 # Description
 
