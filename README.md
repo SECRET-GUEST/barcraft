@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   
                                                                  
 ```
-![version](https://img.shields.io/badge/VERSION-1.0.0-green) ![version](https://img.shields.io/badge/PYTHON-3.11-blue) ![version](https://img.shields.io/badge/VERSION-WEB-yellow) ![version](https://img.shields.io/badge/windows-BLUE) 
+![version](https://img.shields.io/badge/VERSION-1.0.0-green) ![version](https://img.shields.io/badge/PYTHON-3.11-blue) ![version](https://img.shields.io/badge/VERSION-WEB-yellow) ![version](https://img.shields.io/badge/windows-blue) 
 
 A simple QrCode / barcode generator that you can also use from here : https://secret-guest.github.io/barcraft/
 
