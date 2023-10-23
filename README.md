@@ -31,7 +31,8 @@ This software is released under the [GNU General Public License v3.0 (GPL-3.0)](
 
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
-![image](https://github.com/SECRET-GUEST/barcraft/assets/92639080/3b2bef50-c84c-410a-8947-c7bf889eab5b)
+![image](https://github.com/SECRET-GUEST/barcraft/assets/92639080/c25f7b9e-b312-4edf-9cb7-c2ec4d2d8e50)
+
 
 
 ```
