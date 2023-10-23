@@ -159,6 +159,7 @@ class codecrafter(QWidget):
 
 #Function to generate images from codes
     def generate_images(self):
+        self.select_folder()
 
         url = self.in_url.text()
         gen_qr = self.chkbx_qrx.isChecked()
@@ -190,7 +191,7 @@ class codecrafter(QWidget):
 
 #function to generate qr code
     def generate_qr_code(self, url):
-
+    
         qr = qrcode.QRCode(
             version=1,
             error_correction=qrcode.constants.ERROR_CORRECT_L,
@@ -299,9 +300,6 @@ QLabel {
 
         self.chkbx_barcode = QCheckBox("Barcode")
 
-        self.btn_select_folder = QPushButton("Select folder")
-        self.btn_select_folder.clicked.connect(self.select_folder)
-
         self.btn_generator = QPushButton("Generate")
         self.btn_generator.clicked.connect(self.generate_images)
 
@@ -312,7 +310,6 @@ QLabel {
         lay_barcraft.addWidget(self.in_url)
         lay_barcraft.addWidget(self.chkbx_qrx)
         lay_barcraft.addWidget(self.chkbx_barcode)
-        lay_barcraft.addWidget(self.btn_select_folder)
         lay_barcraft.addWidget(self.btn_generator)
         lay_barcraft.addWidget(self.lab_folder)
 
