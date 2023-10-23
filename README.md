@@ -1,5 +1,4 @@
 [![Download barcraft](https://img.shields.io/sourceforge/dt/barcraft.svg)](https://sourceforge.net/projects/barcraft/files/latest/download)
-
 ```
 ██████╗  █████╗ ██████╗  ██████╗██████╗  █████╗ ███████╗████████╗
 ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
@@ -15,6 +14,7 @@ A simple QrCode / barcode generator that you can also use from here : https://se
 
 ![v1 0 1](https://github.com/SECRET-GUEST/barcraft/assets/92639080/3aef43ee-8ca1-4bdd-846d-540c28ee1c38)
 
+[![Download barcraft](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/barcraft/files/latest/download)
 
 # :gem: Recommendations  
 
