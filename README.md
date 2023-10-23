@@ -13,7 +13,7 @@
 
 A simple QrCode / barcode generator that you can also use from here : https://secret-guest.github.io/barcraft/
 
-![Capture d'écran 2023-10-23 170603](https://github.com/SECRET-GUEST/barcraft/assets/92639080/5864cb84-5686-4754-8dfd-8e7c637c3576)
+![v1 0 1](https://github.com/SECRET-GUEST/barcraft/assets/92639080/3aef43ee-8ca1-4bdd-846d-540c28ee1c38)
 
 
 # :gem: Recommendations  
