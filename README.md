@@ -13,7 +13,7 @@
 
 A simple QrCode / barcode generator that you can also use from here : https://secret-guest.github.io/barcraft/
 
-![barcraft-App](https://github.com/SECRET-GUEST/barcraft/assets/92639080/5f9611ba-630f-4c28-ae76-2a51f3b1ca4b)
+![image](https://github.com/SECRET-GUEST/barcraft/assets/92639080/e043bb78-3e24-402f-a096-5a93a8dae4ae)
 
 
 # :gem: Recommendations  
@@ -22,9 +22,10 @@ For more user-friendly scripts without a GUI, consider:
 - [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
 
 
-# :scroll: License
+## 📜 Licence
 
-This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
+This software is released under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.en.html). Please see the `LICENSE` file for more information.
+
 
 # :question: Support & Questions
 
