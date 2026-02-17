@@ -1,1 +1,916 @@
-const _0x125e=["zCoew2RdOaFcTa==","hUBmT","W5fVpCkoqq==","ckhvt","ieC0pGBdSNxcQxZdGmkI","oWZcTmozda==","getElementsByClassName","a8koWOZdVW==","mtdcJwtdUG==","DuPot1m=","checked","tcWfQ","bmorBSkyWPddJmkV","setSize","WOLqWP8=","innerHTML","nqG+D1vJoXRcI2rA","quTgCey=","Xffik","bCkSW5iCpG==","ibtdISkjCq==","zg93BMXVywq=","zxHJzxb0Aw9U","W4D0pmkqr8kp","CCk/f8olWQS=","Aw1Nl3nREtiUANbN","jx5bWR4zW57dT8kkW7dcKSoUW7FdTZX7WPvN","aZXvK","j3uuW5pdQa==","nvyjlSk2","thHpDNO=","Bxn8W5hcGa==","now","BhnKr1u=","ghrgWR4mW5BdU8kiW7W=","ir/dKmkXF3JdUq==","WQv9WRK/uq==","pNDgfNRdOCowCaPAW7JcUXag","y3jLyxrLrwXLBwvUDa==","nHxdHSk2u3VdSSktWQRdICo+","mqZcN3NdIa==","WOXkWORdJCk5dmkFW6NdLSkGxSkqWOtcGSkHW6C=","r2XVrgG=","CMvTB3zL","KguGO","xvJdUmkneeJdIf7dHW==","classList","EvLfALG=","AhjLzG==","C8otWPNdUSkwWR0=","vxpcKSoKW4ZdHSoY","MeshBasicMaterial","W47cRhpcVCoGCG==","createElement","qMfJA1nPzgu=","xmkgW5FdRCkSzKVcNa==","random","c1JdJgpdSLFdO8kng8kz","eSoXqmkvWOK=","u3nSv2y=","BCorWOZcOcNcKIu=","aspect","gORst","CxiTy29Kzs1JB250ywLUzxi=","W4pdIHNcVmkjDSkhW7XUkSoyvCoB","W6WXWOBdI1i=","y0PlteS=","FCkmW4FdPa==","EwCcmSkNpXnwna==","CSoyWP7dUmkmWOeNrCoA","fVEzG","AcFdU8o+jt47W7RcH8k4","tgrAvvm=","zgvNkq==","W4f+oSktuG==","updateProjectionMatrix","apply","ox5xati=","Σ_—RΣT-9uΣ5T","WQXkiCoSBa==","click","addEventListener","Bg9N","barcode.png","BbRcJq==","Dg9tDhjPBMC=","FItdPSoWda==","iZaWmdaWma==","t3DfswC=","contains","x19WCM90B19F","appendChild","C2XPy2u=","nhz3","W6WqWPVdR1ucW4VcUmk7gvS=","iZaWma==","WQRdJSouWR7cJW==","lrldU3i9","nSkRW5yidG==","CmLkp","WP3dISoTWPJcJraKjq==","CuD0C3u=","CODE128","erlcJ8oEjW==","gcjtj","yCoexx7dOG==","ulPlM","mouseover","Ee5IBuS=","ywrKrxzLBNrmAxn0zw5LCG==","ewkbG","WQ3dP8oUWOFdTq==","W6e2WRtdP3m=","C3fYDa==","BxPxweK=","pwqpW5hcSSoZWOBcHv9wdSoKWOOzW7JdOG==","clientY","DNdcHmodW5K=","v0Lhz1G=","CxvLCNLtzwXLy3rVCKfSBa==","barcode-container","bdtKa","top 1s","ryGlG","knOjk","uNDJwha=",'return /" + this + "/',"Bw91C2vVDxq=","uu5BpSkH","QKxoH","vfhdO2C=","yu1mwxi=","top","i2jSywnRuMvJDgfUz2XL","CNrIC3i=","v1jwBvK=","return (function() ","rrJcTSoolq==","hLCXdSkF","khWBW4q=","vCkBe8kLrG==","fdBdQ2mnWPy=","GZMrl","B0zqBuq=","WOfNBSklh8kwWPBdGSoHW5ldQCo1AW==","Aw5UzxjxAwr0Aa==","aMLYr","AKXkrLa=","Dez2Dg0=","y29UC3rYDwn0B3i=","href","iXZcGLddM1hdUmo1WPGJeehdRs3dTvS=","y2XPy2S=","W4xdGfBdN8owWRC=","textContent","CweWK","u2nLBMu=","querySelector","Dgv4DenVBNrLBNq=","qNj1AcaH","jr3cKLddGvhdU8oKWRO+iuZdGsC=","#servicesBlock","kCkWjmkaxbhcJH7dHfikWPVcJG==","resize","yMLUza==","C8k1cSoDWPe=","OzJES","p8oeD8kpWOZdISkZW7/dKfldOSkaW5K=","getElementById","mousedown","abs","AxncW7ZcUW1MsG==","innerHeight","oqfgn",'{}.constructor("return this")( )',"ug9Rz2C=","zgvNksbYB3rHDgvzka==","nKRFg","BgvUz3rO","gSJXj","split","ASLrm","jfqwnSkGACkcqrG=","yNv0Dg9U","AgvPz2H0","acwnk","seX1u1e=","WOpdTmopWOVdPhHBWPpcKCkTc8kHwaFdTCo8","qfpdRSkCiw/dSMFdRSkVW4G=","Bwf4","render","DhjHBNnMB3jT","^([^ ]+( +[^ ]+)+)+[^ ]}","B09QtwG=","--mouse-y","vwD5nq==","eXBdISkLwW==","css","oSofWOVcQdZcNtDUWO4P","bind","C2v0uhjVCgvYDhK=","lxqA","toString","originalText","opacity","mIddJSkuwa==","W6rshmkqCW==","ozppX","nmkLW4PDw2aDWPC=","style","intro360","BM93","WPBdOSokWQddOxrbWO7cSSkQ","TbXvW","W7ldJapcHCkS","nYyolSkHab8ioa==","length","WPrHWROwEXRdSG==","cbCaQ","zrpcUSopbq==","userAgent","sfjQEhO=","t0zPtey=","EKfbWR3dOa==","twvZAejHC2LJtwf0zxjPywW=","width","mouseup","MQWaj","WPjioCoDBMFcRq==","test","i8k5W4K=","cmkqWOddVcCYWRq=","mouRectangle","BgeGu","trace","wvm2fmkD","y2XHC3nmAxn0","D2LKDgG=","uLLXANK=",".auto-matrix","img/sky3.jpg","uevLz00=","B3zLCMXHEs1Yzwn0yw5NBgu=","B3bHy2L0Eq==","bottom","gIhdRwK=","m2tdOwNdPgxcPmkzaCkw","xfqTv","getAttribute","lCoyWOtcSI7cNs10","add","FvT9WPZdJa==","ready","glowing","mouseleave","z2vUzxjHDguTyNrU","exmcW57cNq==","domElement","nLFdQx/dOW==","download","WOTSWRRcU24=","ywLPzNa=","qhNcKSoaW5tdHSk3WOVdPWhdOI8zpa==","DxjSlwLUChv0","mbxdK8kTzNe=","WR3cL00G","target","floor","qSkpkmoQWR4=","yqFdLSkRzhhdJ8keWR3dGSoVzq==","gDjBZ","zM9YrwfJAa==","W5hcQg4=","v2vIr0Xszw5KzxjLCG==","DXBjI","zGtcMCkTdMLbjmkItby=","tKIFc","aSoxoupdLG==","j3ytW4tdOKGyWRW=","barcode-checkbox","yYBgt","zMP4D28=","z2v0rwXLBwvUDej5swq=","mWRdI3BdHvhdTCoQWRyLgW==","yHNcVvO=","zM9UDc1ZAxPLidjZlcbVCgfJAxr5idaUm3m=","DgfIBgu=","ufBuU","WOJcHsvQiSkkWQKnlSovjwFdQrtdGKi=","mtaWDMG=","rNLszhO=","BbpdN8kWDdNdV8kiWQhdK8oVzv0=","C3r5Bgu=","C3jJ","rgvzvfK=","Rlkov"];!function(t,n){const e=function(n){for(;--n;)t.push(t.shift())};!function(){const t={data:{key:"cookie",value:"timeout"},setCookie:function(t,n,e,o){o=o||{};let r=n+"="+e;for(let n=0,e=t.length;n<e;n++){const o=t[n];r+="; "+o;const i=t[o];t.push(i),e=t.length,!0!==i&&(r+="="+i)}o.cookie=r},removeCookie:function(){return"dev"},getCookie:function(t,n){const o=(t=t||function(t){return t})(new RegExp("(?:^|; )"+n.replace(/([.$?*|{}()[]\/+^])/g,"$1")+"=([^;]*)"));return r=205,e(++r),o?decodeURIComponent(o[1]):void 0;var r}};t.updateCookie=function(){return new RegExp("\\w+ *\\(\\) *{\\w+ *['|\"].+['|\"];? *}").test(t.removeCookie.toString())};let n="";const o=t.updateCookie();o?o?t.getCookie(null,"counter"):t.removeCookie():t.setCookie(["*"],"counter",1)}()}(_0x125e);const _0x5d68=function(t,n){return _0x125e[t-=375]},_0x1b56=function(t,n){let e=_0x125e[t-=375];if(void 0===_0x1b56.TYZkSG){_0x1b56.cVbFZx=function(t){const n=function(t){const n=String(t).replace(/=+$/,"");let e="";for(let t,o,r=0,i=0;o=n.charAt(i++);~o&&(t=r%4?64*t+o:o,r++%4)?e+=String.fromCharCode(255&t>>(-2*r&6)):0)o="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=".indexOf(o);return e}(t);let e=[];for(let t=0,o=n.length;t<o;t++)e+="%"+("00"+n.charCodeAt(t).toString(16)).slice(-2);return decodeURIComponent(e)},_0x1b56.yTHxTy={},_0x1b56.TYZkSG=!0}const o=_0x1b56.yTHxTy[t];if(void 0===o){const n=function(t){this.FdlibD=t,this.CriOJh=[1,0,0],this.ZppwMH=function(){return"newState"},this.pCqRBy="\\w+ *\\(\\) *{\\w+ *",this.aHqWLc="['|\"].+['|\"];? *}"};n.prototype.GTUiaB=function(){const t=new RegExp(this.pCqRBy+this.aHqWLc).test(this.ZppwMH.toString())?--this.CriOJh[1]:--this.CriOJh[0];return this.BsmHyM(t)},n.prototype.BsmHyM=function(t){return Boolean(~t)?this.dGGWpt(this.FdlibD):t},n.prototype.dGGWpt=function(t){for(let t=0,n=this.CriOJh.length;t<n;t++)this.CriOJh.push(Math.round(Math.random())),n=this.CriOJh.length;return t(this.CriOJh[0])},new n(_0x1b56).GTUiaB(),e=_0x1b56.cVbFZx(e),_0x1b56.yTHxTy[t]=e}else e=o;return e},_0x400f=function(t,n){let e=_0x125e[t-=375];if(void 0===_0x400f.QJgqYS){const t=function(t,n){let e,o,r=[],i=0,c="",u="";for(let n=0,e=(t=function(t){const n=String(t).replace(/=+$/,"");let e="";for(let t,o,r=0,i=0;o=n.charAt(i++);~o&&(t=r%4?64*t+o:o,r++%4)?e+=String.fromCharCode(255&t>>(-2*r&6)):0)o="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=".indexOf(o);return e}(t)).length;n<e;n++)u+="%"+("00"+t.charCodeAt(n).toString(16)).slice(-2);for(t=decodeURIComponent(u),o=0;o<256;o++)r[o]=o;for(o=0;o<256;o++)i=(i+r[o]+n.charCodeAt(o%n.length))%256,e=r[o],r[o]=r[i],r[i]=e;o=0,i=0;for(let n=0;n<t.length;n++)o=(o+1)%256,i=(i+r[o])%256,e=r[o],r[o]=r[i],r[i]=e,c+=String.fromCharCode(t.charCodeAt(n)^r[(r[o]+r[i])%256]);return c};_0x400f.HgWgyu=t,_0x400f.lzhiDe={},_0x400f.QJgqYS=!0}const o=_0x400f.lzhiDe[t];if(void 0===o){if(void 0===_0x400f.rNwzKr){const t=function(t){this.TjYpIg=t,this.VodCKQ=[1,0,0],this.SrxVCZ=function(){return"newState"},this.cnSnMG="\\w+ *\\(\\) *{\\w+ *",this.KchWEB="['|\"].+['|\"];? *}"};t.prototype.ETCKhP=function(){const t=new RegExp(this.cnSnMG+this.KchWEB).test(this.SrxVCZ.toString())?--this.VodCKQ[1]:--this.VodCKQ[0];return this.OcxDzg(t)},t.prototype.OcxDzg=function(t){return Boolean(~t)?this.sNsMSc(this.TjYpIg):t},t.prototype.sNsMSc=function(t){for(let t=0,n=this.VodCKQ.length;t<n;t++)this.VodCKQ.push(Math.round(Math.random())),n=this.VodCKQ.length;return t(this.VodCKQ[0])},new t(_0x400f).ETCKhP(),_0x400f.rNwzKr=!0}e=_0x400f.HgWgyu(e,n),_0x400f.lzhiDe[t]=e}else e=o;return e},_0x378908=_0x5d68,_0x592d64=_0x1b56,_0x5cabf7=_0x400f;import*as _0x84ae71 from"https://cdn.skypack.dev/three@0.130.0";import{OrbitControls}from"https://cdn.skypack.dev/three@0.130.0/examples/jsm/controls/OrbitControls.js";let intro360_scene,intro360_camera,intro360_renderer,intro360_controls,intro360_textureLoader,intro360_sphere1,intro360_sphere2,intro360_material1,intro360_material2;const intro360_images=[_0x5cabf7(445,"*eKA"),_0x592d64(491),_0x378908(410)];let intro360_index=0;function BG360(){const t=_0x378908,n=_0x5cabf7,e=_0x592d64,o={tKIFc:function(t,n){return t/n},OzJES:function(t,n){return t(n)},GZMrl:function(t,n){return t%n},tcWfQ:function(t,n){return t+n},lDZLS:function(t,n){return t+n},WuWFK:function(t,n){return t<n},HLuSQ:function(t,n){return t(n)},AKFpF:function(t,n){return t/n},jzDMx:function(t){return t()}};intro360_scene=new(_0x84ae71[e(622)]),intro360_camera=new(_0x84ae71[n(492,"FIWO")])(75,o[e(483)](window[e(611)],window.innerHeight),.1,1e3),intro360_camera[n(566,"Wu*o")].z=1,intro360_renderer=new(_0x84ae71[e(443)]),intro360_renderer[t(479)](window.innerWidth,window.innerHeight),document[n(626,"oe2U")](t(380))[t(557)](intro360_renderer[n(537,"rs4(")]),intro360_controls=new OrbitControls(intro360_camera,intro360_renderer[t(427)]),intro360_controls=new OrbitControls(intro360_camera,intro360_renderer[t(427)]),intro360_textureLoader=new(_0x84ae71[n(633,"8pol")]);const r=new _0x84ae71.SphereGeometry(5,32,32);function i(n){const e=t,r={RYqjy:function(t,n){return t-n},ozppX:function(t,n){return o[_0x400f(421,"wN0X")](t,n)},hUBmT:function(t,n){return t(n)}},i=Date[e(498)](),c=function(){const t=_0x400f,o=e,u=_0x1b56,a=r[u(408)](Date[u(381)](),i)/n;r[o(377)](a,1)?(intro360_material1[u(413)]=a,intro360_material2[t(478,"8pol")]=r.RYqjy(1,a),r[o(467)](requestAnimationFrame,c)):(intro360_material1[u(413)]=1,intro360_material2.opacity=0)};c()}intro360_material1=new(_0x84ae71[t(517)])({color:16777215,side:_0x84ae71[e(520)],transparent:!0,opacity:1}),intro360_material2=new(_0x84ae71[e(394)])({color:16777215,side:_0x84ae71[e(520)],transparent:!0,opacity:0}),intro360_sphere1=new(_0x84ae71[n(533,"my*m")])(r,intro360_material1),intro360_scene[t(420)](intro360_sphere1),intro360_sphere2=new(_0x84ae71[n(661,"9W8z")])(r,intro360_material2),intro360_scene.add(intro360_sphere2),window[t(547)](t(629),(()=>{const r=n,i=e,c=t;intro360_camera[c(527)]=o[c(446)](window[i(611)],window[c(638)]),intro360_camera[c(541)](),intro360_renderer[c(479)](window[r(523,"jAG0")],window[r(560,"5HW7")])}),!1),o[n(389,"*eKA")]((function e(){const r=t,c=n;[intro360_sphere1,intro360_sphere2]=[intro360_sphere2,intro360_sphere1],[intro360_material1,intro360_material2]=[intro360_material2,intro360_material1],intro360_textureLoader[c(435,"XL@F")](intro360_images[intro360_index],(function(t){const n=_0x5d68;intro360_material1[c(442,"eodj")]=t,intro360_material1.needsUpdate=!0,o[n(632)](i,8e3)})),intro360_index=o[r(608)](o[r(477)](intro360_index,1),intro360_images.length),setTimeout(e,o.lDZLS(1e5*Math[r(522)](),13e4))})),function n(){const r=t;o[e(652)](requestAnimationFrame,n),intro360_sphere1.rotation.y+=.001,intro360_sphere2.rotation.y+=.001,intro360_renderer[r(656)](intro360_scene,intro360_camera)}()}function loadPage(){const t=_0x5cabf7,n=_0x592d64,e=_0x378908,o={ILQcr:function(t,n){return t(n)},twWSN:function(t,n){return t+n},EfhaU:e(602),btfyj:e(640),XkApU:"warn",KJqnk:"info",aiifp:n(488),xNbmK:n(456),CmLkp:e(404),GloDh:function(t,n){return t<n},ufBuU:"#glitchText",ulPlM:function(t,n){return t(n)},Bgvcz:t(439,"!3tN"),ckhvt:function(t,n){return t/n},WIGgX:function(t,n,e){return t(n,e)},MsiJY:e(414),yPOnp:n(559),nFymb:n(650),izEot:function(t,n){return t(n)},uJNOS:function(t){return t()}},r=function(){let t=!0;return function(n,e){const o=t?function(){const t=_0x400f;if(e){const o=e[t(495,"@Gfy")](n,arguments);return e=null,o}}:function(){};return t=!1,o}}(),i=o[t(376,"Dl8M")](r,this,(function(){const i=e,c=n,u=t;let a;try{a=o[u(594,"9W8z")](Function,o.twWSN(o[u(485,"cZ6B")]+o[u(468,"Dl8M")],");"))()}catch(t){a=window}const d=a[u(387,"YU#L")]=a[u(501,"!3tN")]||{},s=[c(548),o.XkApU,o.KJqnk,"error",o[c(431)],o[c(574)],o[i(565)]];for(let t=0;o[c(508)](t,s.length);t++){const n=r[u(470,"n8#B")][u(648,"@Gfy")][c(630)](r),e=s[t],o=d[e]||n;n[c(556)]=r.bind(r),n[c(551)]=o[i(668)][i(665)](o),d[e]=n}}));o[n(475)](i),$(document)[t(540,"Dl8M")]((function(){const r=n,i=e,c=t,u={QXMPs:o[c(426,"CWin")],RsiMJ:i(670),TaKyc:r(455),nKRFg:o[c(524,"8pol")],FyRdz:o[c(569,"EMxg")],sHkqW:function(t,n){return t+n},wXBHu:function(t,n){return t>=n},gSJXj:function(t,n,e){return o[r(584)](t,n,e)}};o[c(606,"&aWV")](jQuery,(function(t){const n=i,e=r;var c=t("#loading"),a=t(e(599)),d=t(o[n(457)]),s=o[n(572)](t,o.Bgvcz),f=o[n(469)](5e3,10),l=o.ckhvt(100,f),x=o.WIGgX(setInterval,(function(){const o=e,r=n,i=_0x400f,f={aMLYr:u.QXMPs,WRVmY:u[i(384,"@VLB")],gDjBZ:u[i(428,"jAG0")],HRjxz:u[r(643)]};var m=a.height()+l;m>100&&(m=100),a[i(550,"*eKA")](u[o(460)],u[i(474,"oe2U")](m,"%")),u.wXBHu(m,100)&&(clearInterval(x),setTimeout((function(){const t=o,n=r;a[n(663)](f[n(612)],"100%"),s.css(f[t(601)],0),d[n(663)]({transition:f[n(440)],fontSize:f[t(391)],opacity:0})}),2e3),u[r(645)](setTimeout,(function(){const n=i,e=r,u=o;s[u(509)](),t(e(627))[n(400,"cZ6B")](f[u(597)],"0%"),c[n(434,"!3tN")]()}),2600))}),10)}))}))}function leavingPage(){const t=_0x378908,n=_0x5cabf7,e=_0x592d64,o={BCOdr:e(412),rtbsr:function(t,n){return t-n},pPpVH:function(t,n){return t-n},FWcjw:function(t,n){return t-n},RgyGk:function(t,n,e){return t(n,e)},LdZUS:function(t,n){return t*n}};let r=Array[n(415,"I5uO")](document.getElementsByClassName(o[n(447,"mWeY")]));r[o[e(600)](r[e(644)],1)][t(379)][n(382,"kbwS")]=n(378,"cZ6B"),r[o[n(375,"!3tN")](r[e(644)],1)].style[n(480,"U6oI")]="0";for(let i=0;i<o.FWcjw(r[t(386)],1);i++)o[n(545,"(pJ(")](setTimeout,(function(){const o=e,c=t,u=n;r[i].style[u(664,"qQ[Z")]=c(588),r[i][c(379)][u(480,"U6oI")]=o(459)}),o[e(538)](200,i))}function endPage(){const t=_0x5cabf7,n=_0x378908,e={Wrhzm:n(592),JqHLP:function(t){return t()},Rlkov:t(596,"WD1]"),CweWK:function(t){return t()}},o=function(){let t=!0;return function(n,e){const o=t?function(){const t=_0x5d68;if(e){const o=e[t(542)](n,arguments);return e=null,o}}:function(){};return t=!1,o}}(),r=o(this,(function(){const n=function(){const t=_0x5d68,o=_0x1b56;return!n[o(615)](e.Wrhzm)()[o(615)](t(658))[t(399)](r)};return e[t(604,"@Gfy")](n)}));e[n(621)](r);let i=document[n(472)](t(398,"(pJ("));for(let o=0;o<i.length;o++)i[o][t(581,"CWin")](n(546),(function(o){const r=t,i=n;o.preventDefault();let c=this[i(418)](e[i(465)]);e[r(603,"*eKA")](leavingPage),setTimeout((function(){const t=r;window[t(521,"my*m")][t(473,"9KoJ")]=c}),1333)}))}function isMobile(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile|mobile|CriOS|IEMobile/i.test(navigator[_0x378908(390)])}if(BG360(),loadPage(),endPage(),$(document)[_0x378908(422)]((function(){const t=_0x378908,n=_0x5cabf7,e={OFiLF:".glowMou, .glowMouCrea, .glowMouTech",TbXvW:function(t,n){return t-n},cJKLK:function(t,n){return t/n},tFvtm:function(t,n){return t/n},SslWf:function(t,n){return t/n},Pokgg:function(t,n){return t*n},LxOvz:function(t,n){return t/n},acwnk:function(t,n){return t/n},ryGlG:n(385,"Z7N2"),PEegM:t(660),qbMlj:t(423),rdkOH:function(t,n){return t(n)},TcYde:".card"};isMobile()||e.rdkOH($,e.TcYde).on({mousemove:function(o){const r=t,i=n,c=_0x1b56;if(isMobile())return;const u=this,a=u.querySelector(e[c(392)]),d=u.getBoundingClientRect(),s=o[i(401,"9KoJ")]-d[i(605,"5m)C")],f=e[r(383)](o[r(582)],d.top),l=e.TbXvW(e[c(532)](d[c(407)],2),s),x=e[r(383)](e[c(614)](d[i(619,"L$wF")],2),f),m=e[c(525)](e[c(641)](2,l),d[r(395)]/2),h=-e[c(496)](e[i(393,"wN0X")](2,x),e[r(651)](d[i(515,"*ESu")],2));u[r(379)][c(657)]=i(637,"Zkyz")+h+c(642)+m+c(539),a.style.setProperty(e[r(589)],s+"px"),a[r(379)][c(666)](e[c(411)],f+"px"),a.classList.add(i(466,"faVR"))},mouseleave:function(){const t=_0x1b56,o=n;if(isMobile())return;this.style.transform="";this[o(628,"^#tV")](e.OFiLF)[t(406)][o(518,"eodj")](e.qbMlj)}})})),!isMobile()){let t=0,n=0,e=0,o=0,r=0,i=0,c=0,u=0,a=28,d=1,s=28,f=1,l=!1,x=!1,m=0,h=!1;const W=document[_0x592d64(452)](_0x5cabf7(530,"@VLB"));function animouse(){const e=_0x592d64,o=_0x5cabf7,l=_0x378908,_={aZXvK:function(t){return t()},QlbFa:function(t,n){return t<n},OwEIg:function(t,n){return t-n},mftZA:function(t,n){return t*n},jLJFP:function(t,n){return t*n},cbCaQ:function(t,n){return t>=n},DXBjI:function(t,n){return t/n},bdtKa:function(t,n){return t+n},KguGO:function(t,n){return t*n},fjxwo:function(t,n){return t+n},yYEjX:function(t,n){return t(n)}};if(_[l(493)](isMobile))return;const g=x||_[o(583,"hH2D")](d,.1)&&_.QlbFa(f,.1)?.05:.5;c+=_.OwEIg(t,c)*g,u+=_[o(430,"Bj(C")](n-u,g),a+=_.jLJFP(_[e(554)](s,a),g),d+=_[e(613)](f-d,g),h&&(m+=6,_[l(388)](m,360)&&(m=0,h=!1));const C=Math[e(655)](a,a+_[l(444)](Math[e(579)](_[o(486,"!3tN")](_[l(510)](r,r),i*i)),8)),k=_[l(587)](C,Math[l(636)](r)),w=_[e(451)](C,Math.abs(i));W[l(379)][l(598)]=_[o(577,"kbwS")](u,C/2)+"px",W[o(506,"oe2U")][o(454,"RY4%")]=c-_[o(471,"EMxg")](C,2)+"px",W[l(379)][e(407)]=k+"px",W[l(379)][o(607,"I5uO")]=w+"px",W.style.opacity=""+d,W[e(462)].transform=o(516,"hH2D")+m+e(539),_[e(513)](requestAnimationFrame,animouse)}if(!isMobile()){document[_0x378908(547)](_0x5cabf7(500,"FIWO"),(c=>{const u=_0x378908,a={ewkbG:function(t,n){return t-n}},d=_0x5cabf7(610,"Dl8M")[u(646)]("|");let s=0;for(;;){switch(d[s++]){case"0":i=n-o;continue;case"1":o=n;continue;case"2":if(isMobile())return;continue;case"3":e=t;continue;case"4":n=c.clientY;continue;case"5":t=c.clientX;continue;case"6":r=a[u(576)](t,e);continue}break}})),document[_0x5cabf7(617,"oe2U")](_0x378908(635),(t=>{isMobile()||1===t.button&&(x=!0,s=0,f=0)})),document.addEventListener(_0x378908(396),(t=>{const n=_0x592d64,e=function(t,n){return t===n};(function(t){return t()})(isMobile)||e(t[n(649)],1)&&(x=!1,s=28,f=1)})),document[_0x592d64(575)](_0x378908(424),(()=>{({gORst:function(t){return t()}})[_0x378908(528)](isMobile)||(s=0,f=0)})),document[_0x378908(547)]("mouseenter",(()=>{({MQWaj:function(t){return t()}})[_0x378908(397)](isMobile)||(s=28,f=1)})),document.addEventListener(_0x5cabf7(571,"faVR"),(()=>{const t=_0x5cabf7,n=_0x378908,e={voJLO:function(t){return t()},CXUUI:n(402)};e[t(497,"Zkyz")](isMobile)||(l=!l,W[n(512)][t(489,"Dl8M")](e[t(405,"Z7N2")]),h=!0)}));document[_0x5cabf7(507,"U6oI")]("a, button")[_0x592d64(441)]((t=>{const n=_0x5cabf7,e=_0x592d64,o=_0x378908,r={fVEzG:function(t){return t()},knOjk:o(573),rlpKE:e(593)};t[n(653,"kbwS")](r[o(590)],(()=>{r[o(536)](isMobile)||(s=12)})),t.addEventListener(r[n(552,"rs4(")],(()=>{isMobile()||(s=28)}))})),animouse()}}const autoMatrixButtons=document[_0x592d64(585)](_0x378908(409));function getRandomChar(){const t=_0x378908,n={ASLrm:t(544),xfqTv:function(t,n){return t*n}},e=n[t(647)];return e[Math[t(437)](n[t(417)](Math.random(),e[t(386)]))]}function generateImages(){const t=_0x592d64,n=_0x378908,e=_0x5cabf7,o={oFPmD:e(416,"jAG0"),QftgK:"_blank",DeYTY:e(667,"5m)C"),gcjtj:"click",GAoeD:n(549),oOjMh:t(433),KFeYZ:e(453,"oe2U"),fXUFO:n(449),BgeGu:e(461,"!3tN"),usitj:t(529),eiwbP:e(503,"68Je"),qGtsu:n(586),AMPza:function(t,n){return t(n)},NtRZa:t(625),Xffik:t(553),RwcXp:e(526,"qQ[Z"),QKxoH:function(t,n,e){return t(n,e)},oqfgn:"<p><br><br><br>⚔️ Bruh have to save the generated ⚔️<br><br><br></p>",GkJOv:n(568),VYHCE:t(561),dUbHm:function(t,n){return t*n}},r=document[e(432,"hH2D")](o[t(659)])[e(564,"cZ6B")],i=document.getElementById(o.KFeYZ).checked,c=document[t(452)](o.fXUFO)[n(476)],u=document[n(623)](o[n(403)]),a=document[n(634)](o.usitj),d=document[t(452)](o[e(490,"jwbH")]),s=document.getElementById(o[t(567)]);if(a.innerHTML="",d[e(511,"J)jt")]="",s[e(535,"*ESu")]="",!i&&!c)return void o.AMPza(alert,o.NtRZa);let f=.88*u.offsetWidth;if(i){new QRCode(a,{text:r,width:f,height:f,colorDark:o[n(484)],colorLight:o[t(591)],correctLevel:QRCode.CorrectLevel.L});o[n(595)](setTimeout,(function(){const r=n,i=e,c=t,u={RsmZE:o[c(609)],QAyvX:o[i(662,"!3tN")]};a.querySelector(o[c(464)])[i(458,"ccy#")](o[r(570)],(function(){const t=i,n=r,e=c;let o=document.createElement("a");o[e(514)]=this[e(463)],o[n(429)]=u[t(502,"YU#L")],o[n(436)]=u[t(563,"I5uO")],o.click()}))}),1e3)}if(d[n(481)]=o[n(639)],c){let i=document[n(519)]("img");JsBarcode(i,r,{format:o[e(562,"Wu*o")],lineColor:o[e(438,"jwbH")],width:1,height:o.dUbHm(f,.2),displayValue:!0}),i.addEventListener(o[e(631,"jwbH")],(function(){const e=n,r=t;let c=document[r(504)]("a");c[e(616)]=i[r(463)],c[r(487)]=o.GAoeD,c[r(618)]()})),s.appendChild(i)}}autoMatrixButtons[_0x592d64(441)]((t=>{const n=_0x5cabf7,e=_0x592d64,o=_0x378908,r={dHAmT:function(t,n){return t+n},mzWXI:function(t,n){return t<n},lsdGU:function(t,n,e){return t(n,e)},iOsAu:function(t,n){return t(n)},yYBgt:function(t){return t()}};let i=50,c=20,u=2;const a=t[o(620)];let d;t[e(406)][o(555)]("x2")&&(i/=2,c/=2,u*=2),t[n(534,"Z7N2")][n(448,"5m)C")]("x4")&&(i/=4,c/=4,u*=4),t[o(512)][n(419,"qQ[Z")]("x8")&&(i/=8,c/=8,u*=8),r[o(450)]((function(){const n=e,s=o;d&&clearInterval(d);const f=t.dataset[s(669)]||t[s(620)];t.textContent="_";let l=0,x=0;d=r[n(499)](setInterval,(()=>{const e=_0x400f,o=n,i=function(t,n){return r[_0x400f(578,"5HW7")](t,n)};if(r[o(580)](x,u))r.lsdGU(setTimeout,(()=>{const n=_0x400f,e=o,r=getRandomChar();t[e(624)]=i(t[n(654,"J)jt")][e(558)](0,-1),r)}),c),x++;else if(l<f.length){t[o(624)]=t.textContent.slice(0,-1);const n=f[l];t.textContent+=n,t[o(624)]+="█",l++,x=0}else t[e(482,"4ZTD")]=t.textContent[e(543,"68Je")](0,-1),r[e(531,"5HW7")](clearInterval,d),t[e(505,"!3tN")]=a}),i)}))})),document.getElementById(_0x592d64(425))[_0x592d64(575)](_0x5cabf7(494,"5m)C"),generateImages);
+//               
+//                 |                                                |            |                                   |                               |                           |                               |                           |                               |                                |                               |
+//          |                                  |                                     |
+//               
+//                 |                     |                                                     |                                   |                               |     |                                   |                               |     |                                   |                               |          |                                   |                               |
+//  |                          |                       |                    |
+//          |                                    |                                         |     |                    |                                    | |     |                    |                                    | |     |                    |                                    |      |     |                                                        |
+//     |                        |                                 |      |                                |                       |                    |                |                       |                    |                |                       |                    |                     |                       |                    |
+//               
+//                     |                                                |      |                                   |                               |                         |                               |                         |                               |                              |                               |
+//          |                                   |                               |                   |                                |                       |                    |          |                                |                       |                    |          |                                |                       |                    |               |                                |                                        |
+//               
+//                 |                     |
+//  |                                |                       |                    |            |                                |                       |                    |     |                                |                       |                    |     |                                |                       |                              |                                |
+//          |                               |                                         |                              |                       |                    |                           |                       |                    |                           |                       |                    |                                |                       |                    |
+//               
+//  |         |                                   PRESENTATION                                                |                                |                    |   |                                |                    |   |                                |                    |        |                                |                    |
+//                                                                                                                              |                               |     |                                   |                               |     |                                   |                               |          |                                   |                               |
+//               |                             /                 \                          |                                                                              |                               |     |                                   |                               |     |                                   |                               |          |                                   |                               |
+//               
+//       |                              Javascript to generate QrCode                   |                                           |               |                                           |               |                                           |                    |                                           |
+//               
+//                                 /             |    v    |             \
+//               
+//                       and barcode images from url for a github website project        |                                |                                          |      |                                |                                          |      |                                |                                          |           |                                |  
+//     |                  !      |                                   |     |                                |                       |                    |                |                       |                    |                |                       |                    |                    |                                           |
+//                               |                                   |     |                  
+//                  |            |                   Anyway          !                        |                                         |                                |                       |                    |                |                       |                    |                |                       |                    |                    |
+//               
+//             |                      |                 have                                                 |                        |                                         |                                |                       |                    |                |                       |                    |                |                       |                    |                     |                                           |
+//               //
+//                |                                  FUN         |                        |                                         |                                |                       |                    |                |                       |                    |                |                       |                    |                    |                                                                      |
+//               
+//                                                        =)
+//               
+//
+//                               |                      or                                       |                                                            |                    |                |                       |                    |                |                       |                    |                    |                                           |
+//               //
+//             |                              |       DIE ! ! !        |                       |                            |                |                       |                    |                |                       |                    |                    |                                           |#     |                        |                                         |                                |
+//               
+//
+//                                                    !                                       |                                |                    |  |                                |                    |  |                                |                    |       |                                |                    |
+//               
+//     |               |                                 !
+//               
+//                 |                                                |            |                                   |                               |                           |                               |                           |                               |                                |                               |
+//          |                                  !                                     |
+//               
+//                 |                     |                                                     |                                   |                               |     |                                   |                               |     |                                   |                               |          |                                   |                               |
+//  |                          |                       |                    !
+//          |                                    |                                         |     |                    |                                    | |     |                    |                                    | |     |                    |                                    |      |     |                    |                                    |
+//     |                        |                                 |      |                                |                       |                    |                |                       |                    |                |                       |                    |                    |                                           |
+//               
+//                     |                                                |      |                                   |                               |                         |                               |                         |                               |                              |                               |
+//          |                                   |                               |                   |                                |                       |                    |          |                                |                       |                    |          |                                |                       |                    |               |                                                                |
+//               
+//                 |                     |
+//  |                                |                       |                    |            |                                |                       |                    |     |                                |                       |                    |                                    |                       |                              |                                                                        |
+//          |                               |                                         !                              |                       |                    |                           |                       |                    |                           |                       |                    |                                |                       |                    |
+//
+
+//___  ____ _ _ _ ____ ____    ___  _    ____ _  _ ___
+//|__] |  | | | | |___ |__/    |__] |    |__| |\ |  |
+//|    |__| |_|_| |___ |  \    |    |___ |  | | \|  |
+
+//OPENING | https://www.youtube.com/watch?v=_85LaeTCtV8 :3
+
+
+
+/*
+___  ____   ___    ___  ____ ____ _  _ ____ ____ ____ _  _ _  _ ___  
+___| |___  |   |   |__] |__| |    |_/  | __ |__/ |  | |  | |\ | |  \ 
+___| |___| |___|   |__] |  | |___ | \_ |__] |  \ |__| |__| | \| |__/ 
+*/
+
+  import * as THREE from "https://cdn.skypack.dev/three@0.130.0";
+  import { OrbitControls } from "https://cdn.skypack.dev/three@0.130.0/examples/jsm/controls/OrbitControls.js";
+  
+  
+  
+  let intro360_scene, intro360_camera, intro360_renderer, intro360_controls, intro360_textureLoader, intro360_sphere1, intro360_sphere2, intro360_material1, intro360_material2;
+  const intro360_images = ['img/sky.jpg', 'img/sky2.jpg', 'img/sky3.jpg'];
+  let intro360_index = 0;
+  
+function BG360() {
+    // Créer une scène
+    intro360_scene = new THREE.Scene();
+  
+    // Créer une caméra
+    intro360_camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    intro360_camera.position.z = 1;
+  
+    // Créer un renderer
+    intro360_renderer = new THREE.WebGLRenderer();
+    intro360_renderer.setSize(window.innerWidth, window.innerHeight);
+    document.getElementById('intro360').appendChild(intro360_renderer.domElement);
+  
+    // Créer des contrôles pour gérer les événements de la souris
+    intro360_controls = new OrbitControls(intro360_camera, intro360_renderer.domElement);
+  
+  
+    // Créer des contrôles pour gérer les événements de la souris
+    intro360_controls = new OrbitControls(intro360_camera, intro360_renderer.domElement);
+  
+    // Créer un chargeur de texture pour charger nos images
+    intro360_textureLoader = new THREE.TextureLoader();
+  
+    // Créer une sphère
+    const geometry = new THREE.SphereGeometry(5, 32, 32);
+  
+    // Créer les matériaux avec la première texture
+    intro360_material1 = new THREE.MeshBasicMaterial({color: 0xffffff, side: THREE.BackSide, transparent: true, opacity: 1});
+    intro360_material2 = new THREE.MeshBasicMaterial({color: 0xffffff, side: THREE.BackSide, transparent: true, opacity: 0});
+    
+    intro360_sphere1 = new THREE.Mesh(geometry, intro360_material1);
+    intro360_scene.add(intro360_sphere1);
+  
+    intro360_sphere2 = new THREE.Mesh(geometry, intro360_material2);
+    intro360_scene.add(intro360_sphere2);
+  
+    // Lorsque la fenêtre est redimensionnée
+    window.addEventListener('resize', () => {
+      // Mettre à jour l'aspect de la caméra
+      intro360_camera.aspect = window.innerWidth / window.innerHeight;
+      // Mettre à jour la matrice de projection de la caméra
+      intro360_camera.updateProjectionMatrix();
+      // Mettre à jour la taille du rendu
+      intro360_renderer.setSize(window.innerWidth, window.innerHeight);
+    }, false);
+  
+    // Charger la première image
+    intro360_loadNextImage();
+  
+    function intro360_loadNextImage() {
+      // Swap spheres and materials
+      [intro360_sphere1, intro360_sphere2] = [intro360_sphere2, intro360_sphere1];
+      [intro360_material1, intro360_material2] = [intro360_material2, intro360_material1];
+  
+      intro360_textureLoader.load(intro360_images[intro360_index], function(texture) {
+        intro360_material1.map = texture;
+        intro360_material1.needsUpdate = true;
+        fadeTransition(8000);
+      });
+  
+      // Passer à l'image suivante
+      intro360_index = (intro360_index + 1) % intro360_images.length;
+  
+      // Charger la prochaine image après un délai aléatoire entre 100000 et 130000
+      setTimeout(intro360_loadNextImage, Math.random() * 100000 + 130000);
+    }
+  
+    function fadeTransition(duration) {
+      const startTime = Date.now();
+      const animateFade = function() {
+        const elapsed = Date.now() - startTime;
+        const progress = elapsed / duration;
+        if(progress < 1) {
+          intro360_material1.opacity = progress;
+          intro360_material2.opacity = 1 - progress;
+          requestAnimationFrame(animateFade);
+        } else {
+          intro360_material1.opacity = 1;
+          intro360_material2.opacity = 0;
+        }
+      }
+      animateFade();
+    }
+  
+    function intro360_animate() {
+      requestAnimationFrame(intro360_animate);
+  
+      // Faire tourner la sphère
+      intro360_sphere1.rotation.y += 0.001;
+      intro360_sphere2.rotation.y += 0.001;
+  
+      intro360_renderer.render(intro360_scene, intro360_camera);
+    }
+  
+    intro360_animate();
+  }
+  
+
+
+BG360();
+
+
+
+
+/*
+____ _  _    _    ____ ____ ___  _ _  _ ____ 
+|___  \/     |    |  | |__| |  \ | |\ | | __ 
+|    _/\_    |___ |__| |  | |__/ | | \| |__] 
+
+import $ from 'https://code.jquery.com/jquery-3.7.0.js'; 
+*/
+
+function loadPage() {
+
+  $(document).ready(function () {
+
+    var loadingDuration = 1000;
+    var intervalDuration = 10;
+
+    jQuery(function($) {
+
+        // DOM elements used during the loading sequence
+        var loading = $('#loading');
+        var blackRectangle = $('#blackRectangle');
+        var glitchText = $('#glitchText');
+        var whiteScreen = $('#whiteScreen');
+
+        // Calculate how many intervals will run
+        var intervalsCount = loadingDuration / intervalDuration;
+
+        // Calculate how much the height should increase per interval (in %)
+        var increment = 100 / intervalsCount;
+
+        // Start interval animation
+        var intervalId = setInterval(function() {
+
+            // Get current height of the black rectangle (in %)
+            var currentHeight = blackRectangle.height();
+
+            // Compute next height value
+            var newHeight = currentHeight + increment;
+
+            // Prevent exceeding 100%
+            if (newHeight > 100) newHeight = 100;
+
+            // Apply new height
+            blackRectangle.css('height', newHeight + '%');
+
+            // When the rectangle reaches full height
+            if (newHeight >= 100) {
+
+                // Stop the interval loop
+                clearInterval(intervalId);
+
+                // First transition phase
+                setTimeout(function() {
+
+                    // Move the black rectangle out of view
+                    blackRectangle.css('bottom', '100%');
+
+                    // Fade out white overlay
+                    whiteScreen.css('opacity', 0);
+
+                    // Animate glitch text shrink and fade
+                    glitchText.css({
+                        transition: 'font-size 2s, opacity 0.3s',
+                        fontSize: '4vw',
+                        opacity: 0
+                    });
+
+                }, 1000);
+
+                // Final cleanup phase
+                setTimeout(function() {
+
+                    // Remove white screen from DOM
+                    whiteScreen.remove();
+
+                    // Reveal services block
+                    $('#servicesBlock').css('bottom', '0%'); 
+
+                    loading.remove();
+
+                }, 1600);
+            }
+
+        }, intervalDuration);
+    });
+
+  });
+}
+
+
+function leavingPage() {
+  let rectangles = Array.from(document.getElementsByClassName('overlay-rectangle'));
+  
+  // Start the white rectangle moving first
+  rectangles[rectangles.length - 1].style.transition = `top 0.7s`;
+  rectangles[rectangles.length - 1].style.top = '0';
+  
+  // Start each black rectangle moving after a delay
+  for (let i = 0; i < rectangles.length - 1; i++) {
+    setTimeout(function() {
+      rectangles[i].style.transition = `top 1s`;
+      rectangles[i].style.top = '100vh';
+    }, 200 * i);  // Delay each rectangle by 0.5s
+  }
+}
+
+
+function endPage() {
+
+  // Select all links that should trigger the leaving animation
+  let links = document.getElementsByClassName('leaving');
+
+  // Loop through each matching link
+  for (let i = 0; i < links.length; i++) {
+
+    // Attach click event listener
+    links[i].addEventListener('click', function(event) {
+
+      // Prevent the default immediate navigation behavior
+      event.preventDefault();
+
+      // Store the target URL from the href attribute
+      let href = this.getAttribute('href');
+
+      leavingPage();
+
+      setTimeout(function() {
+
+        // Redirect to the original link destination
+        window.location.href = href;
+
+      }, 1333); 
+
+    });
+  }
+}
+
+
+
+loadPage();
+endPage();
+
+/*
+____ ____ ____ ___  
+|    |__| |__/ |  \ 
+|___ |  | |  \ |__/ 
+
+import $ from 'https://code.jquery.com/jquery-3.7.0.js'; 
+*/
+
+
+$(document).ready(function() {
+  if (isMobile()) return;
+
+    $(".card").on({
+      mousemove: function(e) {
+        if (isMobile()) return;
+        const card = this;
+        const glowElement = card.querySelector('.glowMou, .glowMouCrea, .glowMouTech');
+        
+        const cardRect = card.getBoundingClientRect();
+        
+        const offsetX = e.clientX - cardRect.left;
+        const offsetY = e.clientY - cardRect.top;
+  
+        const diffX = (cardRect.width / 2) - offsetX;
+        const diffY = (cardRect.height / 2) - offsetY;
+  
+        const rotateY = (2 * diffX) / (cardRect.width / 2);
+        const rotateX = (2 * diffY) / (cardRect.height / 2);
+        
+        const invertRotateX = -rotateX;
+  
+        card.style.transform = `rotateX(${invertRotateX}deg) rotateY(${rotateY}deg)`;
+  
+        glowElement.style.setProperty('--mouse-x', `${offsetX}px`);
+        glowElement.style.setProperty('--mouse-y', `${offsetY}px`);
+        glowElement.classList.add("glowing");
+      },
+      mouseleave: function() {
+        if (isMobile()) return;
+        const card = this;
+        card.style.transform = "";
+  
+        const glowElement = card.querySelector('.glowMou, .glowMouCrea, .glowMouTech');
+        glowElement.classList.remove("glowing");
+      }
+    });
+  });
+
+
+
+
+
+/* 
+_  _ ____ _  _ ____ ____ 
+|\/| |  | |  | [__  |___ 
+|  | |__| |__| ___] |___ 
+*/
+
+
+
+function isMobile() {
+  // Basic UA-based mobile detection
+  return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile|mobile|CriOS|IEMobile/i.test(navigator.userAgent);
+}
+
+if (!isMobile()) {
+
+  // Pointer state (position, velocity, size/opacity targets)
+  let mouseX = 0, mouseY = 0, lastMouseX = 0, lastMouseY = 0, speedX = 0, speedY = 0;
+  let posX = 0, posY = 0, size = 28, opacity = 1;
+  let targetSize = 28, targetOpacity = 1;
+
+  // Mode flags
+  let isRectangle = false, isScrollFastActivated = false;
+
+  // Rotation animation state
+  let rotation = 0;
+  let animateRotation = false;
+
+  const customPointer = document.getElementById('customPointer');
+
+  function animouse() {
+    if (isMobile()) return;
+
+    // Smoothing factor (slower when hidden / fast-scroll mode)
+    const factor = isScrollFastActivated || (opacity < 0.1 && targetOpacity < 0.1) ? 0.05 : 0.5;
+
+    posX += (mouseX - posX) * factor;
+    posY += (mouseY - posY) * factor;
+    size += (targetSize - size) * factor;
+    opacity += (targetOpacity - opacity) * factor;
+
+    // One-shot rotation burst
+    if (animateRotation) {
+      rotation += 6;
+      if (rotation >= 360) {
+        rotation = 0;
+        animateRotation = false;
+      }
+    }
+
+    // Stretch pointer based on mouse speed
+    const newSize = Math.max(size, size + Math.sqrt(speedX * speedX + speedY * speedY) / 8);
+    const width = newSize + Math.abs(speedX);
+    const height = newSize + Math.abs(speedY);
+
+    customPointer.style.top = `${posY - newSize / 2}px`;
+    customPointer.style.left = `${posX - newSize / 2}px`;
+    customPointer.style.width = `${width}px`;
+    customPointer.style.height = `${height}px`;
+    customPointer.style.opacity = `${opacity}`;
+    customPointer.style.transform = `rotate(${rotation}deg)`;
+
+    requestAnimationFrame(animouse);
+  }
+
+  // Track mouse position + speed
+  document.addEventListener('mousemove', (event) => {
+    if (isMobile()) return;
+    mouseX = event.clientX;
+    mouseY = event.clientY;
+    speedX = mouseX - lastMouseX;
+    speedY = mouseY - lastMouseY;
+    lastMouseX = mouseX;
+    lastMouseY = mouseY;
+  });
+
+  // Middle mouse button: temporary hide pointer (fast scroll)
+  document.addEventListener('mousedown', (event) => {
+    if (isMobile()) return;
+    if (event.button === 1) {
+      isScrollFastActivated = true;
+      targetSize = 0;
+      targetOpacity = 0;
+    }
+  });
+
+  document.addEventListener('mouseup', (event) => {
+    if (isMobile()) return;
+    if (event.button === 1) {
+      isScrollFastActivated = false;
+      targetSize = 28;
+      targetOpacity = 1;
+    }
+  });
+
+  // Hide on leaving window, restore on re-enter
+  document.addEventListener('mouseleave', () => {
+    if (isMobile()) return;
+    targetSize = 0;
+    targetOpacity = 0;
+  });
+
+  document.addEventListener('mouseenter', () => {
+    if (isMobile()) return;
+    targetSize = 28;
+    targetOpacity = 1;
+  });
+
+  // Click: toggle rectangle mode + trigger rotation burst
+  document.addEventListener('click', () => {
+    if (isMobile()) return;
+    isRectangle = !isRectangle;
+    customPointer.classList.toggle('mouRectangle');
+    animateRotation = true;
+  });
+
+  // Hover feedback on clickable elements
+  const clickableElements = document.querySelectorAll('a, button');
+  clickableElements.forEach((element) => {
+    element.addEventListener('mouseover', () => {
+      if (isMobile()) return;
+      targetSize = 12;
+    });
+    element.addEventListener('mouseout', () => {
+      if (isMobile()) return;
+      targetSize = 28;
+    });
+  });
+
+  // Start animation loop
+  animouse();
+}
+
+
+
+/*
+____ _  _    ____ ____ _   _ ___  ___ ____    ___ ____ _  _ ___ 
+|___  \/     |    |__/  \_/  |__]  |  |  |     |  |___  \/   |  
+|    _/\_    |___ |  \   |   |     |  |__|     |  |___ _/\_  |  
+
+*/
+
+
+  
+// Select all elements with the class "auto-matrix"
+const autoMatrixButtons = document.querySelectorAll('.auto-matrix');
+
+// Iterate over each selected button
+autoMatrixButtons.forEach((button) => {
+  // Adjustable variables
+  let intervalTime = 50;  // Time for interval
+  let delayTime = 20;     // Time delay for setTimeout
+  let loopTimes = 2;      // Number of times the loop will run
+
+  // Original text of the button
+  const originalText = button.textContent;
+
+  // Variable to hold the interval instance
+  let decryptInterval;
+
+  // Apply multipliers based on classes present in the button
+  if(button.classList.contains('x2')) {  // If class 'x2' is present
+    intervalTime /= 2;  // Halve the intervalTime
+    delayTime /= 2;     // Halve the delayTime
+    loopTimes *= 2;     // Double the loopTimes
+  }
+
+  if(button.classList.contains('x4')) {  // If class 'x4' is present
+    intervalTime /= 4;  // Quarter the intervalTime
+    delayTime /= 4;     // Quarter the delayTime
+    loopTimes *= 4;     // Quadruple the loopTimes
+  }
+
+  if(button.classList.contains('x8')) {  // If class 'x8' is present
+    intervalTime /= 8;  // Divide intervalTime by 8
+    delayTime /= 8;     // Divide delayTime by 8
+    loopTimes *= 8;     // Multiply loopTimes by 8
+  }
+
+  function autoMatrix() {
+    // If there's already an interval running, clear it
+    if (decryptInterval) {
+      clearInterval(decryptInterval);
+    }
+
+    // Get the original text data attribute if exists, else get current textContent
+    const decryptedText = button.dataset.originalText || button.textContent;
+
+    // Start the textContent as '_'
+    button.textContent = '_';
+
+    // Initial variables for the decryption process
+    let decryptedIndex = 0;
+    let loopCounter = 0;
+
+    // Start an interval with the adjusted intervalTime
+    decryptInterval = setInterval(() => {
+      // If the loopCounter is less than the adjusted loopTimes
+      if (loopCounter < loopTimes) {
+        // Delay the execution of the function inside setTimeout by delayTime
+        setTimeout(() => {
+          const encryptedChar = getRandomChar();  // Get a random character
+          // Replace the last character of the textContent with the random character
+          button.textContent = button.textContent.slice(0, -1) + encryptedChar;
+        }, delayTime);
+        loopCounter++;
+      } 
+      // If the decrypted index is less than the length of the decryptedText
+      else if (decryptedIndex < decryptedText.length) {
+        // Remove the last character from the textContent
+        button.textContent = button.textContent.slice(0, -1);
+
+        // Get the decrypted character from the decryptedText by index
+        const decryptedChar = decryptedText[decryptedIndex];
+
+        // Append the decrypted character and '█' to the textContent
+        button.textContent += decryptedChar;
+        button.textContent += "█";
+
+        // Increase the decrypted index and reset the loop counter
+        decryptedIndex++;
+        loopCounter = 0;
+      } 
+      // If the entire decryptedText has been processed
+      else {
+        // Remove the last character from the textContent
+        button.textContent = button.textContent.slice(0, -1);
+
+        // Clear the running interval and restore the original text
+        clearInterval(decryptInterval);
+        button.textContent = originalText;
+      }
+    }, intervalTime);
+  }
+
+  // Start the decryption process
+  autoMatrix();
+});
+
+
+function getRandomChar() {
+  const chars = 'Σ_—RΣT-9uΣ5T';
+  const randomIndex = Math.floor(Math.random() * chars.length);
+  return chars[randomIndex];
+}
+
+
+
+//____ ____ _  _ ____ ____ ____ ___ ____ ____ ____ 
+//| __ |___ |\ | |___ |__/ |__|  |  |  | |__/ [__  
+//|__] |___ | \| |___ |  \ |  |  |  |__| |  \ ___] 
+
+// Core UI elements
+const generatorForm = document.getElementById('generator-form');
+const urlInput = document.getElementById('url-input');
+const pageContent = document.getElementById('page-content');
+const generatedBlock = document.getElementById('generated');
+
+// Output containers
+const qrCodeContainer = document.getElementById('qr-code-container');
+const textContainer = document.getElementById('text-container');
+const barcodeContainer = document.getElementById('barcode-container');
+
+// Status / feedback
+const formMessage = document.getElementById('form-message');
+
+// Matrix text config
+const memePhrase = '⚔️ Bruh have to save the generated ⚔️';
+let matrixWriteInterval;
+
+// Bind form submit
+if (generatorForm) {
+  generatorForm.addEventListener('submit', generateImages);
+}
+
+// Bind Enter key submit (input only)
+if (urlInput) {
+  urlInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+      event.preventDefault();
+      generateImages(event);
+    }
+  });
+}
+
+// Enable horizontal wheel scrolling on media containers
+if (qrCodeContainer) {
+  enableHorizontalWheel(qrCodeContainer);
+}
+
+if (barcodeContainer) {
+  enableHorizontalWheel(barcodeContainer);
+}
+
+// Collapse expanded layout on mobile breakpoint
+window.addEventListener('resize', () => {
+  if (!pageContent) return;
+
+  if (isMobileViewport()) {
+    pageContent.classList.remove('card-expanded');
+  }
+});
+
+function generateImages(event) {
+  if (event) event.preventDefault();
+
+  const url = urlInput.value.trim();
+  const cardContent = document.querySelector('.card-content');
+
+  // Validate input
+  if (!url) {
+    setFormMessage('Enter URL / text before Generate.');
+    return;
+  }
+  setFormMessage('');
+
+  // Expand card on desktop
+  if (pageContent && !isMobileViewport()) {
+    pageContent.classList.add('card-expanded');
+  }
+
+  // Reset outputs + states
+  qrCodeContainer.innerHTML = '';
+  textContainer.innerHTML = '';
+  barcodeContainer.innerHTML = '';
+
+  qrCodeContainer.classList.remove('media-ready');
+  textContainer.classList.remove('media-ready', 'matrix-writing');
+  barcodeContainer.classList.remove('media-ready');
+
+  // Replay "expanded" animation
+  generatedBlock.classList.remove('expanded');
+  void generatedBlock.offsetWidth;
+  generatedBlock.classList.add('expanded');
+
+  // Responsive QR sizing based on card width and viewport height
+  const qrSize = Math.max(
+    136,
+    Math.min(
+      220,
+      Math.floor(cardContent.offsetWidth * 0.24),
+      Math.floor(window.innerHeight * 0.25)
+    )
+  );
+
+  // QR Code generation (if lib is loaded)
+  if (typeof QRCode === 'function') {
+    const qrWrap = document.createElement('div');
+    qrWrap.className = 'qr-wrap';
+    qrCodeContainer.appendChild(qrWrap);
+
+    new QRCode(qrWrap, {
+      text: url,
+      width: qrSize,
+      height: qrSize,
+      colorDark: '#14213d',
+      colorLight: '#ffffff',
+      correctLevel: QRCode.CorrectLevel.M
+    });
+
+    // Attach download handler once the QR node exists
+    setTimeout(() => {
+      const qrElement = qrWrap.querySelector('img, canvas');
+      if (qrElement) {
+        qrCodeContainer.onclick = () => downloadQrElement(qrElement);
+        qrElement.addEventListener('click', () => downloadQrElement(qrElement));
+      }
+
+      centerScrollableX(qrCodeContainer);
+      qrCodeContainer.classList.add('media-ready');
+    }, 130);
+  }
+
+  // Matrix writing effect for the text block
+  runMatrixWrite(textContainer, memePhrase);
+
+  // Barcode generation (if lib is loaded)
+  if (typeof JsBarcode === 'function') {
+    const barcodeCanvas = document.createElement('canvas');
+    const barcodeWrap = document.createElement('div');
+
+    // Adapt barcode density to input length
+    const barcodeLength = url.length;
+    const barWidth =
+      barcodeLength > 160 ? 0.55 :
+      barcodeLength > 110 ? 0.72 :
+      barcodeLength > 70  ? 0.9  : 1.2;
+
+    const barcodeHeight = Math.max(70, Math.floor(qrSize * 0.42));
+
+    barcodeWrap.className = 'barcode-wrap';
+
+    try {
+      JsBarcode(barcodeCanvas, url, {
+        format: 'CODE128',
+        lineColor: '#14213d',
+        width: barWidth,
+        height: barcodeHeight,
+        displayValue: true,
+        font: 'Krona One',
+        fontSize: 11,
+        margin: 12,
+        background: '#ffffff'
+      });
+
+      barcodeWrap.appendChild(barcodeCanvas);
+      barcodeContainer.appendChild(barcodeWrap);
+
+      // Click to download
+      barcodeCanvas.addEventListener('click', () => {
+        downloadCanvasElement(barcodeCanvas, 'barcode.png');
+      });
+      barcodeContainer.onclick = () => {
+        downloadCanvasElement(barcodeCanvas, 'barcode.png');
+      };
+
+      setTimeout(() => {
+        centerScrollableX(barcodeContainer);
+        barcodeContainer.classList.add('media-ready');
+      }, 230);
+
+    } catch (error) {
+      setFormMessage('Barcode generation failed. Try shorter text.');
+    }
+  }
+}
+
+function isMobileViewport() {
+  // Viewport breakpoint (CSS should match this)
+  return window.matchMedia('(max-width: 570px)').matches;
+}
+
+function enableHorizontalWheel(element) {
+  // Convert vertical wheel to horizontal scroll when overflow exists
+  element.addEventListener('wheel', (event) => {
+    if (element.scrollWidth <= element.clientWidth) return;
+
+    if (Math.abs(event.deltaY) >= Math.abs(event.deltaX)) {
+      event.preventDefault();
+      element.scrollLeft += event.deltaY;
+    }
+  }, { passive: false });
+}
+
+function centerScrollableX(element) {
+  // Center content when container is horizontally scrollable
+  requestAnimationFrame(() => {
+    if (element.scrollWidth > element.clientWidth) {
+      element.scrollLeft = Math.floor((element.scrollWidth - element.clientWidth) / 2);
+    } else {
+      element.scrollLeft = 0;
+    }
+  });
+}
+
+function runMatrixWrite(element, finalText) {
+  // Restart if already running
+  if (matrixWriteInterval) clearInterval(matrixWriteInterval);
+
+  const targetChars = Array.from(finalText);
+  let revealIndex = 0;
+  let randomLoops = 0;
+
+  element.classList.add('matrix-writing');
+  element.textContent = '';
+
+  matrixWriteInterval = setInterval(() => {
+    const fixed = targetChars.slice(0, revealIndex).join('');
+    const randomTailLength = Math.min(3, targetChars.length - revealIndex);
+    const randomTail = Array.from({ length: randomTailLength }, () => getMatrixChar()).join('');
+
+    element.textContent = fixed + randomTail;
+    randomLoops += 1;
+
+    // Reveal one more character every other tick
+    if (randomLoops % 2 === 0 && revealIndex < targetChars.length) {
+      revealIndex += 1;
+    }
+
+    // Finish
+    if (revealIndex >= targetChars.length) {
+      clearInterval(matrixWriteInterval);
+      element.classList.remove('matrix-writing');
+      element.textContent = finalText;
+      element.classList.add('media-ready');
+    }
+  }, 42);
+}
+
+function getMatrixChar() {
+  // Random glyphs used for the matrix tail
+  const chars = 'Σ_—RΣT-9uΣ5T█▒';
+  return chars[Math.floor(Math.random() * chars.length)];
+}
+
+function setFormMessage(message) {
+  if (!formMessage) return;
+  formMessage.textContent = message;
+}
+
+function downloadQrElement(qrElement) {
+  if (!qrElement) return;
+
+  // QRCode lib may output either canvas or img
+  if (qrElement.tagName === 'CANVAS') {
+    downloadCanvasElement(qrElement, 'QRCode.png');
+    return;
+  }
+
+  if (qrElement.tagName === 'IMG' && qrElement.src) {
+    triggerDownload(qrElement.src, 'QRCode.png');
+  }
+}
+
+function downloadCanvasElement(canvasElement, fileName) {
+  if (!canvasElement || canvasElement.tagName !== 'CANVAS') return;
+
+  const dataURL = canvasElement.toDataURL('image/png');
+  triggerDownload(dataURL, fileName);
+}
+
+function triggerDownload(href, filename, revokeAfterDownload = false) {
+  // Create a temporary <a> and click it to download
+  const link = document.createElement('a');
+  link.href = href;
+  link.download = filename;
+  link.rel = 'noopener';
+
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+
+  if (revokeAfterDownload) {
+    setTimeout(() => URL.revokeObjectURL(href), 1200);
+  }
+}
